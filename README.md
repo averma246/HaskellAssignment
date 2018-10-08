@@ -1,2 +1,2 @@
 # HaskellAssignment
-A class project for my Programming Language Paradigms Course
+A partner project for my Programming Language Paradigms Course
